@@ -1,0 +1,1 @@
+NDefines.NDiplomacy.MONTHS_BEFORE_TOTAL_OCCUPATION = 6
