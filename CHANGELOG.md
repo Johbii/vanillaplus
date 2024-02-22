@@ -6,3 +6,5 @@
     - Kent <-> Calais
     - Syracuse <-> Malta
     - Cumbria <-> Mann
+## Random events
+- Removed comet sighted event [960b224](https://github.com/Johbii/vanillaplus/commit/960b2245d44d2ee735dd17a9ca51955f301ce22c)
