@@ -40,12 +40,15 @@ difficulty_easy_player = {
 }
 
 difficulty_normal_player = {
+	ae_impact = -0.33
 }
 
 difficulty_hard_player = {
+	ae_impact = -0.33
 }
 
 difficulty_very_hard_player = {
+	ae_impact = -0.33
 }
 
 ##########################################################################
@@ -53,12 +56,15 @@ difficulty_very_hard_player = {
 ##########################################################################
 
 difficulty_very_easy_ai = {
+	ae_impact = -0.33
 }
 
 difficulty_easy_ai = {
+	ae_impact = -0.33
 }
 
 difficulty_normal_ai = {
+	ae_impact = -0.33
 }
 
 difficulty_hard_ai = {
