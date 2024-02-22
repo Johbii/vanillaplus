@@ -3,6 +3,7 @@
 - Removed encourage development state-edict [bf62694](https://github.com/Johbii/vanillaplus/commit/bf626943f0ab08e6f0e66d41b42bb1b37c045b49)
 - Increase base governing capacity [885f804](https://github.com/Johbii/vanillaplus/commit/885f8043833b86bf9ca066a89e0445e72a99d431)
 - Removed trade route map and Portugese trade route map flagship modifications [b61da10](https://github.com/Johbii/vanillaplus/commit/b61da1021ffcd750bd543a5df83223bd2f2f539c)
+- Remove tech-cost penalty for institution not embraced [675ece3](https://github.com/Johbii/vanillaplus/commit/675ece3c6993427edb88b8d09769429a3fe0b4bd)
 ## Map
 - Added crossable straights [8773a0c](https://github.com/Johbii/vanillaplus/commit/8773a0c0074f5a4bc074f63d0177fb2535cac616)
     - Kent -> Calais
