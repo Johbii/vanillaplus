@@ -6,6 +6,7 @@
     - Kent <-> Calais
     - Syracuse <-> Malta
     - Cumbria <-> Mann
+- Remove native-controlled provinces for performance [9314c3c](https://github.com/Johbii/vanillaplus/commit/9314c3cde3d72e646035fca1b2126472b7b68354)
 ## Random events
 - Removed comet sighted event [960b224](https://github.com/Johbii/vanillaplus/commit/960b2245d44d2ee735dd17a9ca51955f301ce22c)
 ## War score
