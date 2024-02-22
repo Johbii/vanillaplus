@@ -15,3 +15,4 @@
 ## War
 - Shortened full-occupy warscore time for war-leader from 60 months to 6 months [a52e211](https://github.com/Johbii/vanillaplus/commit/a52e21173899e26bc6b0885cc9ab3dfe1120c2e4)
 - Doubled base garrison size from 1000 -> 2000 [900d242](https://github.com/Johbii/vanillaplus/commit/900d2427b95a39e97c116e89fbc16d3ed7aba0e7)
+- Increase base speed of ticking warscore x3 [af71d7d](https://github.com/Johbii/vanillaplus/commit/af71d7defc1f23b9a99ba8704666de20587d28c2)
