@@ -10,4 +10,4 @@
 ## Random events
 - Removed comet sighted event [960b224](https://github.com/Johbii/vanillaplus/commit/960b2245d44d2ee735dd17a9ca51955f301ce22c)
 ## War score
-- Shortened full-occupy warscore time for war-leader from 60 months to 6 months [a52e211](a52e21173899e26bc6b0885cc9ab3dfe1120c2e4)
+- Shortened full-occupy warscore time for war-leader from 60 months to 6 months [a52e211](https://github.com/Johbii/vanillaplus/commit/a52e21173899e26bc6b0885cc9ab3dfe1120c2e4)
