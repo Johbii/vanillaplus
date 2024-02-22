@@ -1,9 +1,6 @@
 # No previous file for Coweta
 
-owner = ETO
-controller = ETO
-add_core = ETO
-is_city = yes
+
 culture = creek
 religion = totemism
 capital = "Coweta"

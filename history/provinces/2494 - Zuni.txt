@@ -1,9 +1,6 @@
 # No previous file for Zuni
 
-owner = ZNI
-controller = ZNI
-add_core = ZNI
-is_city = yes
+
 culture = pueblo
 religion = totemism
 capital = "Zuni"

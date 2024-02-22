@@ -1,9 +1,6 @@
 # No previous file for Natchez
 
-owner = NTZ
-controller = NTZ
-add_core = NTZ
-is_city = yes
+
 culture = natchez
 religion = totemism
 capital = "Natchez"

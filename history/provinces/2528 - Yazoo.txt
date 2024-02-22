@@ -1,9 +1,6 @@
 # No previous file for Yazoo
 
-owner = QUI
-controller = QUI
-add_core = QUI
-is_city = yes
+
 culture = natchez
 religion = totemism
 capital = "Yazoo"

@@ -1,9 +1,6 @@
 # No previous file for Hitchiti
 
-owner = ICH
-controller = ICH
-add_core = ICH
-is_city = yes
+
 culture = yamasee
 religion = totemism
 capital = "Hitchiti"

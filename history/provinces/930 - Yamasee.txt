@@ -1,9 +1,6 @@
 #930 - Yamasee
 
-owner = KSI
-controller = KSI
-add_core = KSI
-is_city = yes
+
 culture = creek
 religion = totemism
 capital = "Yamasee"

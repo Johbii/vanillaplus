@@ -1,9 +1,6 @@
 #882 - Mescalero
 
-owner = MSC
-controller = MSC
-add_core = MSC
-is_city = yes
+
 culture = mescalero
 religion = totemism
 capital = "Mescalero" 

@@ -1,9 +1,6 @@
 #989 - Ontario
 
-owner = AGG
-controller = AGG
-add_core = AGG
-is_city = yes
+
 culture = huron
 religion = totemism
 capital = "Attigneenongnahac"
@@ -25,7 +22,7 @@ discovered_by = north_american
 1649.1.1 = { 
 	owner = ---
 	controller = ---
-	is_city = no
+	is_city = NO
 	remove_core = AGG
 	culture = anishinabe
 } #Anishinabe expands post-beaver wars in deserted huron lands. 
