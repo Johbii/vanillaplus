@@ -7,9 +7,9 @@ capital = "Moniquira"
 
 trade_goods = salt
 hre = no
-base_tax = 5 
-base_production = 5
-base_manpower = 2
+base_tax = 1 
+base_production = 1
+base_manpower = 1
 
 discovered_by = south_american
 discovered_by = andean

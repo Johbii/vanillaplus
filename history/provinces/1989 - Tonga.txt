@@ -7,9 +7,9 @@ hre = no
 capital = "Mu'a"
 
 trade_goods = naval_supplies
-base_tax = 3 
-base_production = 3
-base_manpower = 2
+base_tax = 1 
+base_production = 1
+base_manpower = 1
 discovered_by = polynesian_tech
 extra_cost = 15
 center_of_trade = 1
