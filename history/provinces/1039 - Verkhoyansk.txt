@@ -1,0 +1,2 @@
+#1039 - Verkhoyansk
+1638.1.1 = { discovered_by = RUS }
