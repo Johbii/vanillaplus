@@ -1,0 +1,4 @@
+# 2163 - Liuzhou
+discovered_by = chinese
+discovered_by = nomad_group
+1595.1.1 = { discovered_by = SPA }

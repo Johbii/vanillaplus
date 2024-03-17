@@ -1,0 +1,4 @@
+# 2156 - Chaochow
+discovered_by = chinese
+discovered_by = nomad_group
+1514.1.1 = { discovered_by = POR }
