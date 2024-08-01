@@ -1,6 +1,0 @@
-#613 - Dong Kinh
-discovered_by = chinese
-discovered_by = indian
-discovered_by = muslim
-discovered_by = ottoman
-1655.1.1 = { discovered_by = SPA }

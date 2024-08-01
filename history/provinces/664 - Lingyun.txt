@@ -1,5 +1,0 @@
-#664 - Lingyun
-discovered_by = chinese
-discovered_by = indian
-discovered_by = nomad_group
-1655.1.1 = { discovered_by = SPA }

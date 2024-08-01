@@ -1,5 +1,0 @@
-#4405 - Katha
-discovered_by = chinese
-discovered_by = indian
-1655.1.1 = { discovered_by = SPA }
-1760.1.1 = { discovered_by = GBR }

@@ -1,4 +1,0 @@
-#580 - Kale
-discovered_by = chinese
-discovered_by = indian
-1760.1.1 = { discovered_by = GBR }

@@ -1,6 +1,0 @@
-#1038 - Karalveyem
-discovered_by = HOD
-discovered_by = CHU
-discovered_by = CHV
-discovered_by = KMC
-1648.1.1 = { discovered_by = RUS }

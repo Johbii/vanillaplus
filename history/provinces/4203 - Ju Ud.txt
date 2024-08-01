@@ -1,4 +1,0 @@
-#4203 - Ju Ud
-discovered_by = chinese
-discovered_by = nomad_group
-1608.1.1 = { discovered_by = SPA }

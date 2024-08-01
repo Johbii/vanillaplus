@@ -1,4 +1,0 @@
-#2371 - Song La
-discovered_by = chinese
-discovered_by = indian
-1655.1.1 = { discovered_by = SPA }

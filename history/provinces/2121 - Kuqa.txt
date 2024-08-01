@@ -1,3 +1,0 @@
-# 2121 - Kuqa
-discovered_by = chinese
-discovered_by = nomad_group

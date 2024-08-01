@@ -1,8 +1,0 @@
-#1035 - Penchisky
-discovered_by = ANU
-discovered_by = HOD
-discovered_by = CHU
-discovered_by = CHV
-discovered_by = KMC
-1647.1.1 = { discovered_by = RUS }
-

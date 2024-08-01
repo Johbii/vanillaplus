@@ -1,5 +1,0 @@
-#609 - Angkor
-discovered_by = chinese
-discovered_by = indian
-# Devastated by AYU
-1535.1.1 = { discovered_by = POR }
