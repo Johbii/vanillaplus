@@ -2,5 +2,5 @@ name="Vanilla+ MP Tweaks"
 tags={
 	"tweaks"
 }
-supported_version="1.36.*.*"
+supported_version="v1.37.*"
 remote_file_id="3208442981"
