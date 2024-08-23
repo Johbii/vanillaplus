@@ -1,0 +1,7 @@
+free_colonist = {
+	colonists = 2
+	range = 10
+	trade_range_modifier = 1
+	global_colonial_growth = 35
+	may_explore = yes
+}
