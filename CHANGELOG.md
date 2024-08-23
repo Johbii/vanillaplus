@@ -22,3 +22,7 @@
 - Aggressive expansion impact reduced by 10% for AI and players [4cc0dff](https://github.com/Johbii/vanillaplus/commit/4cc0dffb812bfc2067c4da3341ebff2ea00ae2f5)
 - Allow declaring wars during regency [e735ad8](https://github.com/Johbii/vanillaplus/commit/e735ad82e11dbb4b8ffa242d74a02612853c5b14), [e735ad8](https://github.com/Johbii/vanillaplus/commit/ed5d4722b3e45e0ad08ba4d41dda30fd7f199765)
 - Remove unconditional surrender contribution to call for peace value [adffa2b](https://github.com/Johbii/vanillaplus/commit/adffa2b7e4bf0987e9c00cbe44538f448308f759)
+## Misc
+- Added court recruitment decision [5995ed5](https://github.com/Johbii/vanillaplus/commit/5995ed599976f2a0ec0a4606220b0a4a4c7ae1a9)
+    - Allows recruitment of explorers and conquistadors immediately
+    - Allows recruitment of colonists after reaching diplomatic technology level 6 (or level 10 for colonial nations)
