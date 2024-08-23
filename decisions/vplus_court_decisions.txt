@@ -1,0 +1,9 @@
+country_decisions = {
+	vplus_court_recruitment_decision = {
+		color = { 166  0  0 }
+		potential = { ai = no }
+		effect = {
+			country_event = { id = vplus_court.1 }
+		}
+	}
+}

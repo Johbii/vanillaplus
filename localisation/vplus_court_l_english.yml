@@ -1,0 +1,11 @@
+﻿l_english:
+ #Decisions
+ vplus_court_recruitment_decision_title:0 "Court Recruitment"
+ vplus_court_recruitment_decision_desc:0 ""
+ #Events
+ vplus_court.1.t:0 "Court Recruitment"
+ vplus_court.1.d1:0 ""
+ vplus_court.1.a:0 "Hire a foreign conquistador"
+ vplus_court.1.b:0 "Hire a foreign explorer"
+ vplus_court.1.c:0 "Promote colonial expansion"
+ vplus_court.1.d:0 "Back"
