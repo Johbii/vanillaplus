@@ -18,7 +18,6 @@
     - Reduced force needed to siege fort by one-third (force needed is a calculated as a multiplier of garrison size, vanilla 1.5x -> mod 0.33x) [7d8b62e](https://github.com/Johbii/vanillaplus/commit/7d8b62ecb41b2274f105b9bdc425cab1f3111926)
     - Reduced fort maintenance cost multiplier to match vanilla values [477d348](https://github.com/Johbii/vanillaplus/commit/477d34894e56312589f95bb3700f762183791656)
 - Increase base speed of ticking warscore x3 [af71d7d](https://github.com/Johbii/vanillaplus/commit/af71d7defc1f23b9a99ba8704666de20587d28c2)
-- Aggressive expansion impact reduced by 10% for AI and players [4cc0dff](https://github.com/Johbii/vanillaplus/commit/4cc0dffb812bfc2067c4da3341ebff2ea00ae2f5)
 - Allow declaring wars during regency [e735ad8](https://github.com/Johbii/vanillaplus/commit/e735ad82e11dbb4b8ffa242d74a02612853c5b14), [e735ad8](https://github.com/Johbii/vanillaplus/commit/ed5d4722b3e45e0ad08ba4d41dda30fd7f199765)
 - Remove unconditional surrender contribution to call for peace value [adffa2b](https://github.com/Johbii/vanillaplus/commit/adffa2b7e4bf0987e9c00cbe44538f448308f759)
 ## Misc

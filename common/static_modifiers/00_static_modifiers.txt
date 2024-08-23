@@ -27,7 +27,7 @@ difficulty_very_easy_player = {
 	diplomatic_reputation = 2
 	interest = -2
 	improve_relation_modifier = 0.10
-	ae_impact = -0.43
+	ae_impact = -0.33
 	yearly_corruption = -1.0
 }
 
@@ -35,20 +35,17 @@ difficulty_easy_player = {
 	manpower_recovery_speed = 0.50
 	global_unrest = -5
 	interest = -2
-	ae_impact = -0.43
+	ae_impact = -0.33
 	yearly_corruption = -1.0
 }
 
 difficulty_normal_player = {
-	ae_impact = -0.10
 }
 
 difficulty_hard_player = {
-	ae_impact = -0.10
 }
 
 difficulty_very_hard_player = {
-	ae_impact = -0.10
 }
 
 ##########################################################################
@@ -56,15 +53,12 @@ difficulty_very_hard_player = {
 ##########################################################################
 
 difficulty_very_easy_ai = {
-	ae_impact = -0.10
 }
 
 difficulty_easy_ai = {
-	ae_impact = -0.10
 }
 
 difficulty_normal_ai = {
-	ae_impact = -0.10
 }
 
 difficulty_hard_ai = {
@@ -72,7 +66,7 @@ difficulty_hard_ai = {
 	global_unrest = -1
 	war_exhaustion = -0.05
 	interest = -1
-	ae_impact = -0.43
+	ae_impact = -0.33
 	missionary_maintenance_cost = -0.15
 
 }
@@ -93,7 +87,7 @@ difficulty_very_hard_ai = {
 	improve_relation_modifier = 0.5
 	development_cost = -0.2
 	build_cost = -0.25
-	ae_impact = -0.43
+	ae_impact = -0.33
 	missionary_maintenance_cost = -0.3
 }
 
