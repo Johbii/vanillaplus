@@ -20,6 +20,7 @@
 - Increase base speed of ticking warscore x3 [af71d7d](https://github.com/Johbii/vanillaplus/commit/af71d7defc1f23b9a99ba8704666de20587d28c2)
 - Allow declaring wars during regency [e735ad8](https://github.com/Johbii/vanillaplus/commit/e735ad82e11dbb4b8ffa242d74a02612853c5b14), [e735ad8](https://github.com/Johbii/vanillaplus/commit/ed5d4722b3e45e0ad08ba4d41dda30fd7f199765)
 - Remove unconditional surrender contribution to call for peace value [adffa2b](https://github.com/Johbii/vanillaplus/commit/adffa2b7e4bf0987e9c00cbe44538f448308f759)
+- Reduce cavalry combat ability from Lithuanian and Polish national ideas to 15% [f7fdf08](https://github.com/Johbii/vanillaplus/commit/f7fdf084d34edc9d5d9a4f37c7431daf32a8517b)
 ## Misc
 - Added court recruitment decision [5995ed5](https://github.com/Johbii/vanillaplus/commit/5995ed599976f2a0ec0a4606220b0a4a4c7ae1a9)
     - Allows recruitment of explorers and conquistadors immediately
