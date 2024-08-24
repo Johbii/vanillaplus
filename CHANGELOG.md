@@ -8,7 +8,7 @@
     - Kent -> Calais
     - Syracuse -> Malta
     - Cumbria -> Mann
-- Remove native-controlled provinces for performance [9314c3c](https://github.com/Johbii/vanillaplus/commit/9314c3cde3d72e646035fca1b2126472b7b68354), [78949aa](https://github.com/Johbii/vanillaplus/commit/78949aa814db94d383ee8bec979caabc80e1238f)
+- Remove native-controlled provinces [956a332](https://github.com/Johbii/vanillaplus/commit/956a3327ed5f54c297aeac0a9d7e4b441266ba23)
 - Change Ottoman map color from green to red [9c650ad](https://github.com/Johbii/vanillaplus/commit/9c650ad3d160676e2ac55de706cecb44048700ef), [71a848b](https://github.com/Johbii/vanillaplus/commit/71a848bd2c6f86314517c35eb8f9df643651aa2f)
 ## Random events
 - Removed comet sighted event [960b224](https://github.com/Johbii/vanillaplus/commit/960b2245d44d2ee735dd17a9ca51955f301ce22c)
