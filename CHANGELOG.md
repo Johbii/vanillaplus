@@ -9,6 +9,7 @@
     - Syracuse -> Malta
     - Cumbria -> Mann
 - Remove native-controlled provinces [956a332](https://github.com/Johbii/vanillaplus/commit/956a3327ed5f54c297aeac0a9d7e4b441266ba23)
+- Wastelanded Californian provinces except for Baja and Sonora states (Sonora should still be formable) [3d6e158](https://github.com/Johbii/vanillaplus/commit/3d6e158e437f66e2beda4219fe4150041238d123)
 - Change Ottoman map color from green to red [9c650ad](https://github.com/Johbii/vanillaplus/commit/9c650ad3d160676e2ac55de706cecb44048700ef), [71a848b](https://github.com/Johbii/vanillaplus/commit/71a848bd2c6f86314517c35eb8f9df643651aa2f)
 ## Random events
 - Removed comet sighted event [960b224](https://github.com/Johbii/vanillaplus/commit/960b2245d44d2ee735dd17a9ca51955f301ce22c)
